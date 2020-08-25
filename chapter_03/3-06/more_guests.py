@@ -1,0 +1,11 @@
+guests = ['Tom Hanks', 'Robin Williams', 'George Clooney']
+print('Thankfully, we were able to acquire a larger venue for our event.')
+guests.insert(0, 'Ryan Gosling')
+guests.insert(2, 'Chris Farley')
+guests.append('Jack Nicholson')
+print(f'Welcome to the Oscars, {guests[0]}.')
+print(f'Welcome to the Oscars, {guests[1]}.')
+print(f'Welcome to the Oscars, {guests[2]}.')
+print(f'Welcome to the Oscars, {guests[3]}.')
+print(f'Welcome to the Oscars, {guests[4]}.')
+print(f'Welcome to the Oscars, {guests[5]}.')
