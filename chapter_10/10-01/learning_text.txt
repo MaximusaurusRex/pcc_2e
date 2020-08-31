@@ -1,0 +1,12 @@
+
+In Python, you can code for web development
+In Python, you can perform scientific and numeric computing
+In Python, you can use machine learning
+In Python, you can automate browser web applications
+In Python, you can make robots
+In Python, you can build a blockchain
+In Python, you can automate the boring stuff
+In Python, you can stay on top of bitcoin prices
+In Python, you can create a calculator
+In Python, you can mine Twitter data
+In Python, you can play and build PyGames
